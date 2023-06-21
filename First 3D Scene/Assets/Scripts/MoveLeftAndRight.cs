@@ -1,5 +1,6 @@
 using UnityEngine;
 
+/* MOVE LEFT AND RIGHT SCRIPT */
 public class MoveLeftAndRight : MonoBehaviour
 {
     private readonly float speed = 2.4f; // use the speed value to determine how quickly the cube(s) move 

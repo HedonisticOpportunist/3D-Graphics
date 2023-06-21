@@ -5,6 +5,8 @@ using UnityEngine;
  * @ with modifications from (which have been commented below) 
  * https://learn.unity.com/tutorial/moving-the-camera?uv=2019.4&projectId=5f158f1bedbc2a0020e51f0d
  **/
+
+/* CAMERA CONTROLLER SCRIPT */
 public class CameraController : MonoBehaviour
 {
     [SerializeField] GameObject player;

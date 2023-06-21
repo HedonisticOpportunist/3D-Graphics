@@ -1,5 +1,6 @@
 using UnityEngine;
 
+/* MOVE SPHERE SCRIPT */
 public class MoveSphere : MonoBehaviour
 {
     // Variables
@@ -7,7 +8,7 @@ public class MoveSphere : MonoBehaviour
 
     void Update()
     {
-        // A method that was created to make code more readable 
+        // A method that was created to make the code more readable 
         MoveWithInput();
     }
 

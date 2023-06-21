@@ -1,6 +1,7 @@
 
 using UnityEngine;
 
+/* POPULATE SCENE SCRIPT */
 public class PopulateScene : MonoBehaviour
 {
     // Variables
@@ -8,7 +9,7 @@ public class PopulateScene : MonoBehaviour
 
     void Start()
     {
-        // the for loop was added to ensure that object is created a certain number of times 
+        // the for loop was added to ensure that an object is created a certain number of times 
         for (int j = 0; j < 4; j++)
         {
             SpawnObject(cube);
@@ -28,6 +29,6 @@ public class PopulateScene : MonoBehaviour
 
     private void OnBecameInvisible()
     {
-        Destroy(gameObject); // destroy the object if it is no longer visible 
+        Destroy(gameObject); // destroys the object if it is no longer visible 
     }
 }
