@@ -1,1 +1,1 @@
-Play it here: https://hedonisticopportunist.itch.io/3d
+URL: https://hedonisticopportunist.itch.io/3d
