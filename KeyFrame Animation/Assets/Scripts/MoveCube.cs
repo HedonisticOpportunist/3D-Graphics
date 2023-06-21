@@ -1,5 +1,6 @@
 using UnityEngine;
 
+/* MOVE CUBE SCRIPT */
 public class MoveCube : MonoBehaviour
 {
     // Variables
